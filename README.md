@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Maximilian,
 
 I'm a passionate and pragmatic **software developer** with a strong foundation in **backend and full-stack development**, and a deep interest in building robust, maintainable, and scalable systems.
 

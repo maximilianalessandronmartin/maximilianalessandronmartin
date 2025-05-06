@@ -15,7 +15,7 @@ I'm a passionate and pragmatic **software developer** with a strong foundation i
 - Personal Raspberry Pi projects (because tinkering is fun 🧪)
 
 💼 **Professional background**  
-I completed an apprenticeship as an IT specialist in application development and have since gained experience in enterprise environments and academic settings. I combine hands-on experience with a constant drive to learn and apply modern best practices — including **clean code**, **test-driven development**, and **agile methodologies**.
+I completed an apprenticeship as an IT specialist in application development and have gained experience in enterprise environments and academic settings. I combine hands-on experience with a constant drive to learn and apply modern best practices — including **clean code**, **test-driven development**, and **agile methodologies**.
 
 📫 **Let's connect**  
 I'm always open to interesting discussions, collaboration, and new opportunities.  
